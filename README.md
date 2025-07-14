@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Üdv a GitHub profilomon!
 
-<!--
-**zsenu/zsenu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fiók Nándor vagyok, Programtervező Informatikus hallgató az ELTE-n, Szoftverfejlesztő szakirányon.  
+Web- és szoftverfejlesztés iránt érdeklődöm, több nyelvben és technológiában is otthon érzem magam.
 
-Here are some ideas to get you started:
+## 🔧 Eszközök és technológiák
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 C#, Java, Objektum-orientált programozás
+- 🌐 HTML + CSS, JavaScript, PHP, React, Redux, FastAPI
+- 🛠️ Git, GitLab, Unity, Python, SQL, Jupyter, bash, PowerShell
+
+## 🚀 Egyetemi projektek
+
+- Unity-ben készült szafari játék C# nyelven (csapattal, GitLab verziókezeléssel)
+- Snake játék Java nyelven, adatbáziskezeléssel
+- kisebb Java projektek: egyszerűsített Monopoly, Rubik-óra
+- JavaScript-el készített böngészős játék
+- PHP nyelven készített autókölcsönző oldal
+- mozijegy foglaló webes alkalmazás (az első verzió lokális adatból dolgozik, a második API végpontokkal kommunikálva)
+- webboltot szimuláló API python nyelven
+- időjárás-előrejelző modell python nyelven 
+
+📌 A repóimat folyamatosan töltöm fel – köszönöm, hogy benéztél!
