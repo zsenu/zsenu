@@ -1,4 +1,4 @@
-# 👋 Üdv a GitHub profilomon!
+# [HU] 👋 Üdv a GitHub profilomon!
 
 Fiók Nándor vagyok, Programtervező Informatikus hallgató az ELTE-n, Szoftverfejlesztő szakirányon.  
 Web- és szoftverfejlesztés iránt érdeklődöm, több nyelvben és technológiában is otthon érzem magam.
@@ -13,11 +13,33 @@ Web- és szoftverfejlesztés iránt érdeklődöm, több nyelvben és technológ
 
 - Unity-ben készült szafari játék C# nyelven (csapattal, GitLab verziókezeléssel)
 - Snake játék Java nyelven, adatbáziskezeléssel
-- kisebb Java projektek: egyszerűsített Monopoly, Rubik-óra
+- Kisebb Java projektek: egyszerűsített Monopoly, Rubik Óra
 - JavaScript-el készített böngészős játék
 - PHP nyelven készített autókölcsönző oldal
-- mozijegy foglaló webes alkalmazás (az első verzió lokális adatból dolgozik, a második API végpontokkal kommunikálva)
-- webboltot szimuláló API python nyelven
-- időjárás-előrejelző modell python nyelven 
+- Mozijegy foglaló webes alkalmazás React és Redux használatával (az első verzió lokális adatból dolgozik, a második API végpontokkal kommunikálva)
+- Webboltot szimuláló API Python nyelven
+- Időjárás-előrejelző modell Python nyelven
 
-📌 A repóimat folyamatosan töltöm fel – köszönöm, hogy benéztél!
+
+
+# [EN] 👋 Welcome to my GitHub profile!
+
+I'm Nándor Fiók, a Computer Science student at Eötvös Loránd University, specializing in Software Development.  
+I'm passionate about web and software development and feel comfortable working with a variety of programming languages and technologies.
+
+## 🔧 Tools and Technologies
+
+- 👨‍💻 C#, Java, Object-Oriented Programming  
+- 🌐 HTML + CSS, JavaScript, PHP, React, Redux, FastAPI  
+- 🛠️ Git, GitLab, Unity, Python, SQL, Jupyter, Bash, PowerShell
+
+## 🚀 University Projects
+
+- Safari game developed in Unity using C# (team project with GitLab version control)  
+- Snake game in Java with database handling  
+- Smaller Java projects: simplified Monopoly, Rubik's Clock  
+- Browser-based game developed with JavaScript  
+- Car rental website developed in PHP  
+- Movie ticket booking web application, using React and Redux (first version works with local data, second version communicates with API endpoints)  
+- Webshop-simulating API written in Python  
+- Weather forecasting model developed in Python
