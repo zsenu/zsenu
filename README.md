@@ -6,11 +6,12 @@ Web- és szoftverfejlesztés iránt érdeklődöm, több nyelvben és technológ
 ## 🔧 Eszközök és technológiák
 
 - 👨‍💻 C#, Java, Objektum-orientált programozás
-- 🌐 HTML + CSS, JavaScript, PHP, React, Redux, FastAPI
-- 🛠️ Git, GitLab, Unity, Python, SQL, Jupyter, bash, PowerShell
+- 🌐 HTML + CSS, JavaScript, TypeScript, PHP, React, Redux, FastAPI, Django, Laravel
+- 🛠️ Git, GitLab, Unity, Python, SQL (SQLite, PostgreSQL), Jupyter, bash, PowerShell
 
 ## 🚀 Egyetemi projektek
 
+- Full-stack web-alapú fitnesz webalkalmazás (teljes szoftverfejlesztési életciklus, Python + Django + PostgreSQL <-> React + Redux + TypeScript)
 - Unity-ben készült szafari játék C# nyelven (csapattal, GitLab verziókezeléssel)
 - Snake játék Java nyelven, adatbáziskezeléssel
 - Kisebb Java projektek: egyszerűsített Monopoly, Rubik Óra
@@ -30,11 +31,12 @@ I'm passionate about web and software development and feel comfortable working w
 ## 🔧 Tools and Technologies
 
 - 👨‍💻 C#, Java, Object-Oriented Programming  
-- 🌐 HTML + CSS, JavaScript, PHP, React, Redux, FastAPI  
-- 🛠️ Git, GitLab, Unity, Python, SQL, Jupyter, Bash, PowerShell
+- 🌐 HTML + CSS, JavaScript, TypeScript, PHP, React, Redux, FastAPI, Django, Laravel
+- 🛠️ Git, GitLab, Unity, Python, SQL (SQLite, PostgreSQL), Jupyter, Bash, PowerShell
 
 ## 🚀 University Projects
 
+- Full-stack web-based fitness web-app (with full software development lifecycle, Python + Django + PostgreSQL <-> React + Redux + TypeScript)
 - Safari game developed in Unity using C# (team project with GitLab version control)  
 - Snake game in Java with database handling  
 - Smaller Java projects: simplified Monopoly, Rubik's Clock  
